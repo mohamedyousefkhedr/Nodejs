@@ -15,7 +15,7 @@
     }
   
   ::-webkit-scrollbar-thumb {
-    background: linear-gradient(90deg, #9e4673, #3d4a59);
+    background: linear-gradient(90deg, #9e4673, #416b9a);
     border-radius: 1rem;
   }
   
@@ -28,7 +28,7 @@
   header {
     margin-bottom: 100px;
   
-    background-color: #3d4a59;
+    background-color: #2a5688;
     color: white;
     border-radius: 0 0 70px 70px;
   
